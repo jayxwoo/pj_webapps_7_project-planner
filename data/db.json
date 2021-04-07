@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum x 10",
+      "complete": true,
+      "created_at": "08/04/2021, 10:50:37"
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true,
+      "created_at": "07/04/2021, 05:30:00"
+    },
+    {
+      "id": 3,
+      "title": "Create a portfolio website",
+      "details": "Lorem ipsum",
+      "complete": false,
+      "created_at": "07/04/2021, 05:30:00"
+    },
+    {
+      "title": "Finish project #8",
+      "details": "Real Time Chat App",
+      "complete": false,
+      "created_at": "08/04/2021, 10:32:37",
+      "id": 4
+    },
+    {
+      "title": "Send purchase agreement",
+      "details": "by this afternoon",
+      "complete": false,
+      "created_at": "08/04/2021, 11:51:26",
+      "id": 5
+    }
+  ]
+}
