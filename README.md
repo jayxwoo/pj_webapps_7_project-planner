@@ -1,7 +1,7 @@
 # 7. Project - planner (Vue.js)
 ## Screenshots
 ![screenshot-01](./screenshots/screenshot-01.png)
-![screen-recording-01](./screenshots/screen-recording-01.gif)
+![screenshot-01](./screenshots/screenshot-02.png)
 
 ## Features
 - Create and new projects (JSON Server)

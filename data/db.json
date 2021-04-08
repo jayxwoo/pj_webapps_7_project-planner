@@ -30,10 +30,10 @@
     },
     {
       "title": "Learn Vue.js",
-      "details": "Learn Vue Router\nLearn Vue Composition API",
+      "details": "Vue Router\nVue Composition API",
       "complete": false,
-      "created_at": "08/04/2021, 12:10:31",
-      "id": 6
+      "created_at": "08/04/2021, 12:13:50",
+      "id": 7
     }
   ]
 }
