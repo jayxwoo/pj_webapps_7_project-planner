@@ -29,10 +29,10 @@
       "id": 5
     },
     {
-      "title": "hi and hi",
-      "details": "hihi\ngogogo",
+      "title": "Learn Vue.js",
+      "details": "Learn Vue Router\nLearn Vue Composition API",
       "complete": false,
-      "created_at": "08/04/2021, 12:02:36",
+      "created_at": "08/04/2021, 12:10:31",
       "id": 6
     }
   ]
