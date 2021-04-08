@@ -1,19 +1,20 @@
-# 7_project-planner
+# 7. Project - planner (Vue.js)
+## Screenshots
+![screenshot-01](./screenshots/screenshot-01.png)
+![screen-recording-01](./screenshots/screen-recording-01.gif)
 
-## Project setup
-```
-npm install
-```
+## Features
+- Create and new projects (JSON Server)
+- Read and list(show) projects
+- Edit projects
+- Delete projects
+- Mark projects as completed
+- Filter projects by all, completed and ongoing
+- Click on a project to see more details
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Skills
+- HTML
+- CSS
+- JS
+- Vue.js
+- JSON Server
