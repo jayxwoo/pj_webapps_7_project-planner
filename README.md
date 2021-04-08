@@ -1,4 +1,4 @@
-# 7. Project - planner (Vue.js)
+# 7. Project Planner (Vue.js)
 ## Screenshots
 ![screenshot-01](./screenshots/screenshot-01.png)
 ![screenshot-01](./screenshots/screenshot-02.png)
